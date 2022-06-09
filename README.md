@@ -1,2 +1,2 @@
-# ernesto_berrum.github.io
+# ernesto-berrum.github.io
 My homepage
